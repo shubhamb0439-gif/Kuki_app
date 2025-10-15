@@ -9,25 +9,25 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "public/logo kuki copy copy copy copy.png",
+      "src": "public/logo kuki.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "public/logo kuki copy copy copy copy.png",
+      "src": "public/logo kuki.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "public/logo kuki copy copy copy copy.png",
+      "src": "public/logo kuki.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "public/logo kuki copy copy copy copy.png",
+      "src": "public/logo kuki.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
